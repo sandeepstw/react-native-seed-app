@@ -53,9 +53,9 @@ When Node.js bundling index.android.js done it will start emulator
 # Here some useful commands
 
 ```bash
-cd android && gradlew clean 		- for clean project
+cd android && gradlew clean 			- for clean project
 react-native eject				- for recreates the android and ios folder
 react-native cli				- used to generate new project
-npm install –g react-native-cli 	- install react-native globally
+npm install –g react-native-cli 		- install react-native globally
 
 ```
