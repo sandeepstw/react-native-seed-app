@@ -20,9 +20,9 @@ Before apk build command run you need to Launch created AVD in emulator
 ![](/images/listEmulator.PNG "Description goes here")
 
 ```bash
-#### 1. Check/Set system variables properly for JAVA and sdk
-#### 2. Also check svn.exe path in Android studio->file->settings->version control->subversion->use command line client
-#### Verify that path matches with your svn.exe path.
+ 1. Check/Set system variables properly for JAVA and sdk
+ 2. Also check svn.exe path in Android studio->file->settings->version control->subversion->use command line client
+ Verify that path matches with your svn.exe path.
 ```
 
 After run following command for build apk
@@ -53,9 +53,9 @@ When Node.js bundling index.android.js done it will start emulator
 # Here some useful commands
 
 ```bash
-cd android && gradlew clean 	- for clean project
+cd android && gradlew clean 		- for clean project
 react-native eject				- for recreates the android and ios folder
 react-native cli				- used to generate new project
-npm install –g react-native-cli - install react-native globally
+npm install –g react-native-cli 	- install react-native globally
 
 ```
