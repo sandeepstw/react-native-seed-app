@@ -1,0 +1,11 @@
+export const NAME_CHANGED = 'name_changed';
+export const LNAME_CHANGED = 'lname_changed';
+export const EMAIL_CHANGED = 'email_changed';
+export const PHONE_CHANGED = 'phone_changed';
+export const ADULTS_CHANGED = 'adults_changed';
+export const CHILDREN_CHANGED = 'children_changed';
+export const COMM_CHANGED = 'comm_changed';
+export const SELECT_HOTELS = 'select_hotels';
+export const WHERE_TOEAT = 'where_to_eat';
+export const EXOTIC = 'exotics';
+export const REVIEW = 'hotel_reviews';

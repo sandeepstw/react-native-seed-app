@@ -1,0 +1,49 @@
+{
+    
+
+
+    "section_1":[
+                        {
+                            "id": 1,
+                             "title": "Chilly Willy",
+                            "description": "Welcoming and reliable, this family-run place has pleasant streetside tables and produces a range of fairly traditional Mexican fare. Enchiladas, tostadas, tacos and more substantial plates.",                   
+                            "price":"Dishes M$40-120",
+                            "hour":"10am-7pm Wed-Mon",
+                            "location":"Revolución s/n:",
+                            "choice":"Seafood"
+                        }
+
+
+
+                ],
+
+
+
+    "section_2":[
+                        {
+                            "id": 1,
+                            "title": "Café El Espresso",
+                            "description": "This corner spot on the plaza – where breakfast is served until 3pm – lives up to its name. The coffee is strong and sensational, and non-dairy milk options are available.",                   
+                            "price":"Dishes M$40-120",
+                            "hour":"10am-7pm Wed-Mon",
+                            "location":"Revolución s/n:",
+                            "choice":"Cafe"
+                        }
+
+
+                ],
+
+     "section_3":[
+                        {
+                            "id": 1,
+                            "title": "Tacos El Ivan",
+                            "description": "Down by the bridge, Ivan is still cranking out tasty tacos al pastor (rotisserie-cooked pork with slices of onion and pineapple) long after everyone else has turned in for the night.",                   
+                            "price":"Dishes M$40-120",
+                            "hour":"10am-7pm Wed-Mon",
+                            "location":"Revolución s/n:",
+                            "choice":"Cafe"
+                           }
+
+                ]
+    
+}

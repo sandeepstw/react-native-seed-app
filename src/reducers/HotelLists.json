@@ -1,0 +1,574 @@
+[
+    {
+
+        "all_hotels":[
+
+                {
+                    "id": 0,
+                    "hotelemail":  "reservations@playa-escondida.com",
+                    "ccemail":  "customercare@sayulita.com",
+                    "title": "Calandria",
+                    "description": "Casa Calandria a two-story bungalow, stands  nestled among the trees on the lower part of the canyon with a great view of a majestic stand of palm trees.",
+                    "image":"http://www.sayulita.com/images/playa/where_to_stay/calandria.jpg",
+                    "pricedes1":"High Season:",
+                    "pricedes2":"Low Season:",
+                    "pricedes3":"Holiday:",
+                    "price1":"$ 235 / Night",
+                    "price2":"$ 190 / Night",
+                    "price3":"$ 260 / Night",
+
+                    "detaildescription":"Casa Calandria (ka lan drEE a), a two-story bungalow, stands nestled among the trees on the lower part of the canyon with a great view of a majestic stand of palm trees. Its fine kitchen, living room with sofa-bed and full deck with lounge chairs and dining table are on the first floor. An outside stairway leads to the magnificent bedroom above with a more expansive view, beautiful canopied king bed and jungle-view bath. Live in the best of both worlds in your beautiful luxury teak bungalow amid the trees one-quarter mile from our beach and in a great location to explore the adjacent beach just one mile down a beautiful jungle road. Sayulita is only a 10 minute golf cart ride away. Whether your interest is shopping, dining or clubbing, you can easily drive your golf car almost anywhere in the Sayulita area or ride down the winding cobblestone road to the main hotel beach and enjoy the view, the smell of the jungle and sea and the sounds of nature.",
+                    "room_features":[
+                                      { "feature": "Queen Bed"},
+                                      { "feature": "Full Bath"},
+                                      { "feature": "Full Deck Downstairs"},
+                                      { "feature": "Full Kitchen"},
+                                      { "feature": "WiFi"},
+                                      { "feature": "Golf Cart"}
+                                    ],
+                     "slider":[
+                                {
+                                  "id": 1,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/playa/Calandria/01.jpg"
+                                },
+                                {
+                                  "id": 2,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/playa/Calandria/02.jpg"
+                                },
+                                {
+                                  "id": 3,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/playa/Calandria/03.jpg"
+                                },
+                                {
+                                  "id": 4,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/playa/Calandria/04.jpg"
+                                }
+                          ],
+                    "features":"Pool\n Restaurant\n Spa\n Concierge\n Yoga deck\n Bar/Lounge\n Internet\n Shuttle"
+                },
+                {
+                    "id": 1,
+                    "hotelemail":  "info@villavalentin.net",
+                    "ccemail":  "customercare@sayulita.com",
+                    "title": "Casa Valentine",
+                    "description": "The beautifully appointed master suite has views to Monkey Mountain and an open air bathroom looking towards to ocean.",
+                    "image":"http://www.sayulita.com/images/where-to-stay/casa-valentin.png",
+                    "pricedes1":"High Season:",
+                    "pricedes2":"Low Season:",
+                    "pricedes3":"Holiday:",
+                    "price1":"$ 1200 / Night",
+                    "price2":"$ 800 / Night",
+                    "price3":"ask for price",
+                    "detaildescription":"The fully remodelled 4 bedroom/4 bathroom main casa is a luxurious example of boho-chic international design blended with local craftsmanship. The massive palapa roof draws a fresh breeze off the ocean, and provides cooling shade over the open plan living area. The fully equipped kitchen is decorated with hand painted azul tiles contrasting with the Pulido mosaic floors which span the living area and terraza. The impressive native wood table hosts a dinner for up to 20 guests with views of the jungle and Pacific, and a light and airy double bedroom with queen bed opens out to the adjacent living area. Downstairs is divided into 3 large double bedrooms with en-suite bathrooms, and a spacious lounge area with a small kitchen, dining table and TV. One of the bedrooms is set up for families with additional bunk beds. Natural ventilation flows from the ocean view decks of each room through to the main doors opening onto the pool terrace. The beautifully appointed master suite has views to Monkey Mountain and an open air bathroom looking towards to ocean.",
+                    "room_features":[
+                                      { "feature": "10 sleeps"},
+                                      { "feature": "High speed internet"},
+                                      { "feature": "Full kitchen with dishwasher, microwave and filtered water"},
+                                      { "feature": "Natural bathroom amenities"},
+                                      { "feature": "Mini fridge in downstairs kitchen"},
+                                      { "feature": "Room safes"},
+                                      { "feature": "Closets"},
+                                      { "feature": "Mosquito nets"},
+                                      { "feature": "Louvered windows for ventilation and privacy"},
+                                      { "feature": "Private patios on downstairs bedrooms"}
+                                     
+                                    ],
+                     "slider":[
+                                {
+                                  "id": 1,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casa-valentine/casa-valentine-slide-1.png"
+                                },
+                                {
+                                  "id": 2,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casa-valentine/casa-valentine-slide-2.png"
+                                },
+                                {
+                                  "id": 3,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casita-azul/casita-azul-slider1.jpg"
+                                },
+                                {
+                                  "id": 4,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casita-azul/casita-azul-slider2.jpg"
+                                },
+                                {
+                                  "id": 5,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casita-azul/casita-azul-slider3.jpg"
+                                },
+                                {
+                                  "id": 6,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casita-azul/casita-azul-slider4.jpg"
+                                },
+                                {
+                                  "id": 7,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casita-azul/casita-azul-slider5.jpg"
+                                },
+                                {
+                                  "id": 8,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casita-azul/casita-azul-slider6.jpg"
+                                },
+                                {
+                                  "id": 9,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casita-azul/casita-azul-slider7.jpg"
+                                }
+                          ],
+                    "features":"Pool\n Beach View\n Kichenettes\n Fridge\n Wifi\n Fans Near town\n Private\n Fan\n Wedding/Event\n Yoga/Massage\n Local Beer & Cocktails\n Every room has a fan and fully airconditioned\n We also have 24 hour security.\n We do not have a shuttle service into town as guests need to rent a golf cart."
+                },
+                {
+                    "id": 2,
+                    "hotelemail":  "info@villavalentin.net",
+                    "ccemail":  "customercare@sayulita.com",
+                    "title": "Casita Azul",
+                    "description": "The fully remodelled 4 bedroom/4 bathroom main Casita is a luxurious example of boho-chic international design blended with local craftsmanship.",
+                    "image":"http://www.sayulita.com/images/where-to-stay/casita-azul.png",
+                    "pricedes1":"High Season:",
+                    "pricedes2":"Low Season:",
+                    "pricedes3":"Holiday:",
+                    "price1":"$ 335 / Night",
+                    "price2":"$ 275 / Night",
+                    "price3":"$400 / Night",
+                    "detaildescription":"The fully remodelled 4 bedroom/4 bathroom main Casita is a luxurious example of boho-chic international design blended with local craftsmanship. The massive palapa roof draws a fresh breeze off the ocean, and provides cooling shade over the open plan living area. The fully equipped kitchen is decorated with hand painted azul tiles contrasting with the Pulido mosaic floors which span the living area and terraza. The impressive native wood table hosts a dinner for up to 20 guests with views of the jungle and Pacific, and a light and airy double bedroom with queen bed opens out to the adjacent living area.Downstairs is divided into 3 large double bedrooms with en-suite bathrooms, and a spacious lounge area with a small kitchen, dining table and TV. One of the bedrooms is set up for families with additional bunk beds. Natural ventilation flows from the ocean view decks of each room through to the main doors opening onto the pool terrace. The beautifully appointed master suite has views to Monkey Mountain and an open air bathroom looking towards to ocean.",
+                    "room_features":[
+                                      { "feature": "4 sleeps"},
+                                      { "feature": "Air conditioningt"},
+                                      { "feature": "Fans"},
+                                      { "feature": "High speed interne"},
+                                      { "feature": "Tea and coffee facilities"},
+                                      { "feature": "Filtered water in the rooms"},
+                                      { "feature": "Natural bathroom amenities"},
+                                      { "feature": "Mini fridge"},
+                                      { "feature": "Room saf"},
+                                      { "feature": "Closets"},
+                                      { "feature": "Mosquito nets"},
+                                      { "feature": "Louvered windows for ventilation and privacy"},
+                                      { "feature": "Hammocks in the palapa lounge"}
+                                    ],
+                     "slider":[
+                                {
+                                  "id": 1,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casa-valentine/casa-valentine-slide-2.png"
+                                },
+                                {
+                                  "id": 2,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casita-azul/casita-azul-slider1.jpg"
+                                },
+                                {
+                                  "id": 3,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casita-azul/casita-azul-slider2.jpg"
+                                },
+                                {
+                                  "id": 4,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casita-azul/casita-azul-slider3.jpg"
+                                },
+                                {
+                                  "id": 5,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casita-azul/casita-azul-slider4.jpg"
+                                },
+                                {
+                                  "id": 6,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casita-azul/casita-azul-slider5.jpg"
+                                },
+                                {
+                                  "id": 7,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casita-azul/casita-azul-slider6.jpg"
+                                },
+                                {
+                                  "id": 8,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/casita-azul/casita-azul-slider7.jpg"
+                                }
+                          ],
+                    "features":"Pool\n Beach View\n Kichenettes\n Fridge\n Wifi\n Fans\n Near town\n Private\n Fan\n Wedding/Event\n Yoga/Massage\n Local Beer & Cocktails"
+                }
+
+
+        ],
+
+    "homes_villa":[      
+                {
+                    "id": 0,
+                    "hotelemail":  "reservations@playa-escondida.com",
+                    "ccemail":  "customercare@sayulita.com",
+                    "title": "Calandria",
+                    "description": "Casa Calandria a two-story bungalow, stands  nestled among the trees on the lower part of the canyon with a great view of a majestic stand of palm trees.",
+                    "image":"http://www.sayulita.com/images/playa/where_to_stay/calandria.jpg",
+                    "pricedes1":"High Season:",
+                    "pricedes2":"Low Season:",
+                    "pricedes3":"Holiday:",
+                    "price1":"$ 235 / Night",
+                    "price2":"$ 190 / Night",
+                    "price3":"$ 260 / Night",
+                    "detaildescription":"Casa Calandria (ka lan drEE a), a two-story bungalow, stands nestled among the trees on the lower part of the canyon with a great view of a majestic stand of palm trees. Its fine kitchen, living room with sofa-bed and full deck with lounge chairs and dining table are on the first floor. An outside stairway leads to the magnificent bedroom above with a more expansive view, beautiful canopied king bed and jungle-view bath. Live in the best of both worlds in your beautiful luxury teak bungalow amid the trees one-quarter mile from our beach and in a great location to explore the adjacent beach just one mile down a beautiful jungle road. Sayulita is only a 10 minute golf cart ride away. Whether your interest is shopping, dining or clubbing, you can easily drive your golf car almost anywhere in the Sayulita area or ride down the winding cobblestone road to the main hotel beach and enjoy the view, the smell of the jungle and sea and the sounds of nature.",
+                    "room_features":[
+                                      { "feature": "Queen Bed"},
+                                      { "feature": "Full Bath"},
+                                      { "feature": "Full Deck Downstairs"},
+                                      { "feature": "Full Kitchen"},
+                                      { "feature": "WiFi"},
+                                      { "feature": "Golf Cart"}
+                                    ],
+                    "slider":[
+                                {
+                                  "id": 1,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/playa/Calandria/01.jpg"
+                                },
+                                {
+                                  "id": 2,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/playa/Calandria/02.jpg"
+                                },
+                                {
+                                  "id": 3,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/playa/Calandria/03.jpg"
+                                },
+                                {
+                                  "id": 4,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/playa/Calandria/04.jpg"
+                                }
+                          ],
+                    "features":"Pool\n Restaurant\n Spa\n Concierge\n Yoga deck\n Bar/Lounge\n Internet\n Shuttle"
+                },
+                 {
+                    "id": 1,
+                    "hotelemail":  "reservations@playa-escondida.com",
+                    "ccemail":  "customercare@sayulita.com",
+                    "title": "Cenzontle",
+                    "description": "Casa Cenzontle, a two-story bungalow, stands proudly among the trees on the upper side of the canyon with a majestic view of the entire canyon and mountains beyond.",
+
+                    "image":"http://www.sayulita.com/images/playa/where_to_stay/cenzontle.jpg",
+                    "pricedes1":"High Season:",
+                    "pricedes2":"Low Season:",
+                    "pricedes3":"Holiday:",
+                    "price1":"$ 275 / Night",
+                    "price2":"$ 215 / Night",
+                    "price3":"$325 / Night",
+                    "detaildescription":"Casa Cenzontle (zen ZONT lee), a two-story bungalow, stands proudly among the trees on the upper side of the canyon with a majestic view of the entire canyon and mountains beyond. Its fine kitchen, living room with sofa-bed and full deck with lounge chairs and dining table are on the first floor. An outside stairway leads to the magnificent bedroom above with an even more expansive view, beautiful canopied king bed and teak and bamboo bath. Live in the best of both worlds in your beautiful luxury teak bungalow amid the trees one-quarter mile from our beach and in a great location to explore the adjacent beach just one mile down a beautiful jungle road. Sayulita is only a 10 minute golf cart ride away. Whether your interest is shopping, dining or clubbing, you can easily drive your golf car almost anywhere in the Sayulita area or ride down the winding cobblestone road to the main hotel beach and enjoy the view, the smell of the jungle and sea and the sounds of nature.A Golf Car is available for free for Cenzontle guests.",
+                    "room_features":[
+                                      { "feature": "Canopy queen bed"},
+                                      { "feature": "Full Bath"},
+                                      { "feature": "sofa-bed"},
+                                      { "feature": "Full Kitchen"},
+                                      { "feature": "WiFi"},
+                                      { "feature": "Golf Cart"},
+                                      { "feature": "full deck downstairs"}
+                                    ],
+                    "slider":[
+                                {
+                                  "id": 1,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/playa/Cenzontle/01.jpg"
+                                },
+                                {
+                                  "id": 2,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/playa/Cenzontle/02.jpg"
+                                },
+                                {
+                                  "id": 3,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/playa/Cenzontle/03.jpg"
+                                },
+                                {
+                                  "id": 4,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/playa/Cenzontle/04.jpg"
+                                },
+                                {
+                                  "id": 5,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/playa/Cenzontle/05.jpg"
+                                },
+                                {
+                                  "id": 6,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/playa/Cenzontle/06.jpg"
+                                }
+                          ],
+                    "features":"Pool\n Beach View\n Kichenettes\n Fridge\n Wifi\n Fans\n Near town\n Privat\n Fan\n Wedding/Event\n Yoga/Massage\n Local Beer & Cocktails"
+                },
+                {
+                    "id": 2,
+                    "hotelemail":  "reservations@playa-escondida.com",
+                    "ccemail":  "customercare@sayulita.com",
+                    "title": "Casa Chachalaca",
+                    "description": "Casa Chachalaca, on the upper canyon level, is an intimate sister to Casa Cenzontle, but with privacy and discrete separation.",
+                    "image":"http://www.sayulita.com/images/playa/where_to_stay/chachalaca.jpg",
+                    "pricedes1":"High Season:",
+                    "pricedes2":"Low Season:",
+                    "pricedes3":"Holiday:",
+                    "price1":"$ 300 / Night",
+                    "price2":"$ 275 / Night",
+                    "price3":"$350 / Night",
+                    "detaildescription":"Casa Chachalaca (cha cha LA ca), on the upper canyon level, is an intimate sister to Casa Cenzontle, but with privacy and discrete separation. It has the same elegance and quality throughout but, in addition, has a bedroom deck with incomparable view. The teak bed is a canopied queen for intimate comfort. The bath is bamboo and teak with solid bronze shower fixtures and granite and ceramic counter and sink. An outside stairway leads to the magnificent bedroom above with an even more expansive view, beautiful canopied king bed and teak and bamboo bath. Sayulita is only a 10 minute golf cart ride away. Whether your interest is shopping, dining or clubbing, you can easily drive your golf car almost anywhere in the Sayulita area or ride down the winding cobblestone road to the main hotel beach and enjoy the view, the smell of the jungle and sea and the sounds of nature. A Golf Car is available for free for Chachalaca guests.",
+                    "room_features":[
+                                      { "feature": "Canopy queen bed"},
+                                      { "feature": "Full Bath"},
+                                      { "feature": "sofa-bed"},
+                                      { "feature": "Full Kitchen"},
+                                      { "feature": "WiFi"},
+                                      { "feature": "Golf Cart"},
+                                      { "feature": "full deck downstairs upstairs and downstairs"}
+                                    ],
+                    "slider":[
+                                 {
+                                    "id": 1,
+                                    
+                                    "imagePath": "http://www.sayulita.com/images/playa/Chachalaca/01.jpg"
+                                  },
+                                  {
+                                    "id": 2,
+                                    
+                                    "imagePath": "http://www.sayulita.com/images/playa/Chachalaca/02.jpg"
+                                  },
+                                  {
+                                    "id": 3,
+                                    
+                                    "imagePath": "http://www.sayulita.com/images/playa/Chachalaca/03.jpg"
+                                  },
+                                  {
+                                    "id": 4,
+                                    
+                                    "imagePath": "http://www.sayulita.com/images/playa/Chachalaca/04.jpg"
+                                  },
+                                  {
+                                    "id": 5,
+                                    
+                                    "imagePath": "http://www.sayulita.com/images/playa/Chachalaca/05.jpg"
+                                  },
+                                  {
+                                    "id": 6,
+                                    
+                                    "imagePath": "http://www.sayulita.com/images/playa/Chachalaca/06.jpg"
+                                  }
+                          ],
+                    "features":"Pool\n Restaurant\n Spa\n Concierge\n Yoga deck\n Bar/Lounge\n Internet\n Shuttle"
+                }
+
+    ],
+
+    "sayulita":[      
+                {
+                    "id": 0,
+                    "hotelemail":  "reservations@playa-escondida.com",
+                    "ccemail":  "customercare@sayulita.com",
+                    "title": "Playa Escondida",
+                    "description": "This is beachfront hippie-chic at its finest: palapas and canopied beds, sensual organic architecture and scads of luscious lounge-worthy spots.",
+                    "image":"http://www.sayulita.com/images/where-to-stay/playa-escondida.png",
+                    "pricedes1":"High Season:",
+                    "pricedes2":"Low Season:",
+                    "pricedes3":"Holiday:",
+                    "price1":"$ 270 / Night",
+                    "price2":"$ 196 / Night",
+                    "price3":"ask for price",
+                    "detaildescription": "This is beachfront hippie-chic at its finest: palapas and canopied beds, sensual organic architecture and scads of luscious lounge-worthy spots. Add to that al fresco yoga and massage, jungle explorations followed by a gourmet repast and glorious waves for hanging ten and you have a recipe for eco-perfection. Rooms are wide open and offer a combination of beach views, jungle views and even canyon views from five palapa-topped teak bungalows situated a quarter-mile from the main hotel. Service is personalized and unobtrusive—it's a place where everybody knows your name, if only to make sure you're having the best time possible and you have everything you need to zen out. We suggest packing light, namely a carry-on with a selection of teeny bikinis, one perfect pair of sandals, three linen dresses and a brand new tube of Bain de Soleil Orange Gelée.",
+                    "room_features":[
+                                      { "feature": "Queen Bed"},
+                                      { "feature": "Full Bath"},
+                                      { "feature": "Full Deck Downstairs"},
+                                      { "feature": "Full Kitchen"},
+                                      { "feature": "WiFi"},
+                                      { "feature": "Golf Cart"}
+                                    ],
+                    "slider":[
+                                {
+                                  "id": 1,
+                                  "imagePath": "http://www.sayulita.com/images/playa/Playa_Escondida/01.jpg"
+                                },
+                                {
+                                  "id": 2,
+                                  "imagePath": "http://www.sayulita.com/images/playa/Playa_Escondida/02.jpg"
+                                },
+                                {
+                                  "id": 3,
+                                  "imagePath": "http://www.sayulita.com/images/playa/Playa_Escondida/03.jpg"
+                                      },
+                                      {
+                                  "id": 4,
+                                  "imagePath": "http://www.sayulita.com/images/playa/Playa_Escondida/04.jpg"
+                                      },
+                                      {
+                                  "id": 5,
+                                  "imagePath": "http://www.sayulita.com/images/playa/Playa_Escondida/05.jpg"
+                                      },
+                                      {
+                                  "id": 6,
+                                  "imagePath": "http://www.sayulita.com/images/playa/Playa_Escondida/06.jpg"
+                                }
+                          ],
+                    "features":"Pool\nRestaurant\nSpa\nConcierge\nYoga deck\nBar/Lounge\nInternet\nShuttle"
+                },
+                {
+                    "id": 1,
+                    "hotelemail":  "reservations@playa-escondida.com",
+                    "ccemail":  "customercare@sayulita.com",
+                    "title": "Casa Chachalaca",
+                    "description": "Casa Chachalaca, on the upper canyon level, is an intimate sister to Casa Cenzontle, but with privacy and discrete separation.",
+                    "image":"http://www.sayulita.com/images/playa/where_to_stay/chachalaca.jpg",
+                    "pricedes1":"High Season:",
+                    "pricedes2":"Low Season:",
+                    "pricedes3":"Holiday:",
+                    "price1":"$ 300 / Night",
+                    "price2":"$ 275 / Night",
+                    "price3":"$350 / Night",
+                    "detaildescription":"Casa Chachalaca (cha cha LA ca), on the upper canyon level, is an intimate sister to Casa Cenzontle, but with privacy and discrete separation. It has the same elegance and quality throughout but, in addition, has a bedroom deck with incomparable view. The teak bed is a canopied queen for intimate comfort. The bath is bamboo and teak with solid bronze shower fixtures and granite and ceramic counter and sink. An outside stairway leads to the magnificent bedroom above with an even more expansive view, beautiful canopied king bed and teak and bamboo bath. Sayulita is only a 10 minute golf cart ride away. Whether your interest is shopping, dining or clubbing, you can easily drive your golf car almost anywhere in the Sayulita area or ride down the winding cobblestone road to the main hotel beach and enjoy the view, the smell of the jungle and sea and the sounds of nature. A Golf Car is available for free for Chachalaca guests.",
+                    "room_features":[
+                                      { "feature": "Canopy queen bed"},
+                                      { "feature": "Full Bath"},
+                                      { "feature": "sofa-bed"},
+                                      { "feature": "Full Kitchen"},
+                                      { "feature": "WiFi"},
+                                      { "feature": "Golf Cart"},
+                                      { "feature": "full deck downstairs upstairs and downstairs"}
+                                    ],
+                    "slider":[
+                                 {
+                                    "id": 1,
+                                    
+                                    "imagePath": "http://www.sayulita.com/images/playa/Chachalaca/01.jpg"
+                                  },
+                                  {
+                                    "id": 2,
+                                    
+                                    "imagePath": "http://www.sayulita.com/images/playa/Chachalaca/02.jpg"
+                                  },
+                                  {
+                                    "id": 3,
+                                    
+                                    "imagePath": "http://www.sayulita.com/images/playa/Chachalaca/03.jpg"
+                                  },
+                                  {
+                                    "id": 4,
+                                    
+                                    "imagePath": "http://www.sayulita.com/images/playa/Chachalaca/04.jpg"
+                                  },
+                                  {
+                                    "id": 5,
+                                    
+                                    "imagePath": "http://www.sayulita.com/images/playa/Chachalaca/05.jpg"
+                                  },
+                                  {
+                                    "id": 6,
+                                    
+                                    "imagePath": "http://www.sayulita.com/images/playa/Chachalaca/06.jpg"
+                                  }
+                          ],
+                    "features":"Pool\n Restaurant\n Spa\n Concierge\n Yoga deck\n Bar/Lounge\n Internet\n Shuttle"
+                },
+                {
+                    "id": 2,
+                    "hotelemail":  "hotelkupuri@hotmail.com",
+                    "ccemail":  "customercare@sayulita.com",
+                    "title": "Hotel Kupuri",
+                    "description": "Hotel Kupuri strives to provide a majestic vacationing experience by catering superior service in a sophisticated setting, so that our guests can aquire total harmony with mind, body, and soul.",
+                    "image":"http://www.sayulita.com/images/where-to-stay/kupuri.png",
+                    "pricedes1":"High Season:",
+                    "pricedes2":"Low Season:",
+                    "pricedes3":"Holiday:",
+                    "price1":"$ 330.25 / Night",
+                    "price2":"$ 277.31 / Night",
+                    "price3":"$330 / Night",
+                    "detaildescription":"Hotel Kupuri strives to provide a majestic vacationing experience by catering superior service in a sophisticated setting, so that our guests can aquire total harmony with mind, body, and soul. Hotel Kupuri is located in the heart and soul of one of Mexico's most cherished gems, Sayulita, Nayarit. For this purpose, it's no wonder that its name, 'Kupuri',actually means 'soul' in Huichol the dialect spoken by he indigenous people of Nayarit, Mexico. Hotel Kupuri offers its guests a magical getaway experience suitable for families, friends, honeymooners, or unaccompanied travelers. This gorgeous boutique hotel features a total of twenty accommodations.",
+                    "room_features":[
+                                      { "feature": "Six Junior Suites"},
+                                      { "feature": "Eleven Master Suites"},
+                                      { "feature": "Two Presidential Suites"},
+                                      { "feature": "One Honeymoon Suite"},
+                                      { "feature": "Free Wi-Fi"},
+                                      { "feature": "Spacious armoires"},
+                                      { "feature": "Air-conditioning"},
+                                      { "feature": "Cable flat-screen TV"},
+                                      { "feature": "Luxury bathrooms"}
+                                    ],
+                    "slider":[
+                                {
+                                  "id": 1,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/kupuri/k1.png"
+                                },
+                                {
+                                  "id": 2,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/kupuri/k2.png"
+                                },
+                                {
+                                  "id": 3,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/kupuri/k3.png"
+                                },
+                                {
+                                  "id": 4,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/kupuri/k4.png"
+                                },
+                                {
+                                  "id": 5,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/kupuri/k5.png"
+                                },
+                                {
+                                  "id": 6,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/kupuri/k6.png"
+                                },
+                                {
+                                  "id": 7,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/kupuri/k7.png"
+                                },
+                                {
+                                  "id": 8,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/kupuri/k8.png"
+                                },
+                                {
+                                  "id": 9,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/kupuri/k9.png"
+                                },
+                                {
+                                  "id": 10,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/kupuri/k10.png"
+                                },
+                                {
+                                  "id": 11,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/kupuri/k13.png"
+                                },
+                                {
+                                  "id": 12,
+                                  
+                                  "imagePath": "http://www.sayulita.com/images/slider/kupuri/k14.png"
+                                }
+                          ],
+                    "features":"Majesty and sophistication\n Amazing panoramic view of Sayulita\n Talented chefs\n Wifi\n Parking\n Pool with unique design\n Sports\n ecotourism and nightlife\n Bars\n Dining"
+                }
+
+    ]
+
+}
+
+]
+ 

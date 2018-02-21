@@ -1,0 +1,1386 @@
+{
+  "hotel_playa_escondida": {
+  					  "hotelTitle":"Playa Escondida",
+					  "hotelDesc":"This is beachfront hippie-chic at its finest: palapas and canopied beds, sensual organic architecture and scads of luscious lounge-worthy spots.\n\nAdd to that al fresco yoga and massage, jungle explorations followed by a gourmet repast and glorious waves for hanging ten and you have a recipe for eco-perfection. Rooms are wide open and offer a combination of beach views, jungle views and even canyon views from five palapa-topped teak bungalows situated a quarter-mile from the main hotel.\n\nService is personalized and unobtrusive—it's a place where everybody knows your name, if only to make sure you're having the best time possible and you have everything you need to zen out. We suggest packing light, namely a carry-on with a selection of teeny bikinis, one perfect pair of sandals, three linen dresses and a brand new tube of Bain de Soleil Orange Gelée.\n",
+					  
+					  "high_season":"495",
+					  "low_season":"165",
+					  "address":"Sayulita Nayarit, Sayulita 63734, Mexico",
+					  "telephone":" Sayulita Direct: +52 329 291 3641\n US/Canada toll free: 1 888 445 0103",
+					  "hotel_link":"http://www.playa-escondida.com/",
+					  "msgowner_email":"reservations@playa-escondida.com",
+					  "hotel_images" : [
+									{
+										"id": 1,
+										
+										"imagePath": "../images/all_images/01.jpg"
+									},
+									{
+										"id": 2,
+										
+										"imagePath": "../images/all_images/02.jpg"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/03.jpg"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/04.jpg"
+									},
+									{
+										"id": 5,
+										
+										"imagePath": "../images/all_images/05.jpg"
+									},
+									{
+										"id": 6,
+										
+										"imagePath": "../images/all_images/06.jpg"
+									}
+								],
+					  "hotel_map" : 
+									{
+										"latitude": 20.865470885013856,
+										"longitude": -105.45437168329954,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745
+										
+									}
+  },
+  "hotel_calandria":{
+  	 				  "hotelTitle":"Calandria",
+					  "hotelDesc":"Casa Calandria (ka lan drEE a), a two-story bungalow, stands nestled among the trees on the lower part of the canyon with a great view of a majestic stand of palm trees.\n\nIts fine kitchen, living room with sofa-bed and full deck with lounge chairs and dining table are on the first floor.\n\nAn outside stairway leads to the magnificent bedroom above with a more expansive view, beautiful canopied king bed and jungle-view bath.\n\nLive in the best of both worlds in your beautiful luxury teak bungalow amid the trees one-quarter mile from our beach and in a great location to explore the adjacent beach just one mile down a beautiful jungle road.\n\nSayulita is only a 10 minute golf cart ride away. Whether your interest is shopping, dining or clubbing, you can easily drive your golf car almost anywhere in the Sayulita area or ride down the winding cobblestone road to the main hotel beach and enjoy the view, the smell of the jungle and sea and the sounds of nature.",
+					  
+					  "high_season":"190",
+					  "low_season":"235",
+					  "holiday_price":"$260",
+					  "msgowner_email":"reservations@playa-escondida.com",
+					  "hotel_images" : [
+									{
+										"id": 1,
+										
+										"imagePath": "../images/all_images/01 (1).jpg"
+									},
+									{
+										"id": 2,
+										
+										"imagePath": "../images/all_images/02 (1).jpg"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/03 (1).jpg"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/04 (1).jpg"
+									}
+									
+								],
+					  "hotel_map" : 
+									{
+										"latitude": 20.865470885013856,
+										"longitude": -105.45437168329954,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745
+										
+									},
+					 "accordion_sec":[
+										  {
+										  	"id":1,
+										    "title": "Room Features",
+										    "content": "\n\nQueen Bed\n\nFull Bath\n\nFull Deck Downstairs\n\nFull Kitchen\n\nWiFi\n\nGolf Cart\n\n",
+										  },
+										  {
+										  	"id":2,
+										    "title": "Rates",
+										    "content": {
+											   
+												    	"img1": "../images/all_images/calandria-rate-1.png",
+												    	"season1":"Low Season",
+												    	"price1":"$190 / Night",
+												    	"img2": "../images/all_images/calandria-rate-2.png",
+												    	"season2":"High Season",
+												    	"price2":"$235 / Night",
+											    		"img3": "../images/all_images/calandria-rate-3.png",
+												    	"season3":"Holiday",
+												    	"price3":"$260 / Night"
+											    	
+										   			}
+										  },
+										  {
+										  	"id":3,
+										    "title": "Amenities",
+										    "content": {
+										    	"top":"Swim in the infinity pool overlooking the Pacific coastline, swing in your room’s hammock, take a refreshing shower on the deck amid treetops. Hang out at the beach bar or on a lounge chair while you sunbathe. After communing with the sea you can go back to the comfort of your canopy bed, and when you finish dinner take a walk along the beach under a million star canvas.",
+										    	"left":"\n\nPool\n\nRestaurant\n\nSpa\n\nConcierge\n\n",
+										    	"right":"\n\nYoga deck\n\nBar/Lounge\n\nInternet\n\nShuttle\n\n",
+										    }
+										  }
+								   ]
+  },
+  "hotel_casa_valentine":{
+  					  "hotelTitle":"Casa Valentine",
+					  "hotelDesc":"The fully remodelled 4 bedroom/4 bathroom main casa is a luxurious example of boho-chic international design blended with local craftsmanship. The massive palapa roof draws a fresh breeze off the ocean, and provides cooling shade over the open plan living area. The fully equipped kitchen is decorated with hand painted azul tiles contrasting with the Pulido mosaic floors which span the living area and terraza. The impressive native wood table hosts a dinner for up to 20 guests with views of the jungle and Pacific, and a light and airy double bedroom with queen bed opens out to the adjacent living area.\n\nDownstairs is divided into 3 large double bedrooms with en-suite bathrooms, and a spacious lounge area with a small kitchen, dining table and TV. One of the bedrooms is set up for families with additional bunk beds. Natural ventilation flows from the ocean view decks of each room through to the main doors opening onto the pool terrace. The beautifully appointed master suite has views to Monkey Mountain and an open air bathroom looking towards to ocean.\n",
+					  "msgowner_email":"info@villavalentin.net",
+					  "high_season":"1100 plus 16% tax",
+					  "low_season":"1600 plus 16% tax",
+					  "holiday_price":"ask for price",
+					  
+					  "hotel_images" : [
+									{
+										"id": 1,
+										
+										"imagePath": "../images/all_images/casa-valentine-slide-1.png"
+									},
+									{
+										"id": 2,
+										
+										"imagePath": "../images/all_images/casa-valentine-slide-2.png"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/casita-azul-slider1.jpg"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/casita-azul-slider2.jpg"
+									},
+									{
+										"id": 5,
+										
+										"imagePath": "../images/all_images/casita-azul-slider3.jpg"
+									},
+									{
+										"id": 6,
+										
+										"imagePath": "../images/all_images/casita-azul-slider4.jpg"
+									},
+									{
+										"id": 7,
+										
+										"imagePath": "../images/all_images/casita-azul-slider5.jpg"
+									},
+									{
+										"id": 8,
+										
+										"imagePath": "../images/all_images/casita-azul-slider6.jpg"
+									},
+									{
+										"id": 9,
+										
+										"imagePath": "../images/all_images/casita-azul-slider7.jpg"
+									}
+									
+								],
+					  "hotel_map" : 
+									{
+										"latitude": 20.8597738,
+										"longitude": -105.448096,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745
+										
+									},
+					  "accordion_sec":[
+										  {
+										  	"id":1,
+										    "title": "Room Features",
+										    "content": "\n\n10 sleeps\n\nHigh speed internet\n\nFull kitchen with dishwasher, microwave and filtered water\n\nNatural bathroom amenities\n\nMini fridge in downstairs kitchen\n\nRoom safes\n\nClosets\n\nMosquito nets\n\nLouvered windows for ventilation and privacy\n\nPrivate patios on downstairs bedrooms\n\n",
+										  },
+										  {
+										  	"id":2,
+										    "title": "Rates",
+										    "content": {
+											   
+												    	"img1": "../images/all_images/casa-valentine-rate-1.png",
+												    	"season1":"Low Season",
+												    	"price1":"$1100 plus 16% tax",
+												    	"img2": "../images/all_images/casa-valentine-rate-2.png",
+												    	"season2":"High Season",
+												    	"price2":"$1600 plus 16% tax",
+											    		"img3": "../images/all_images/casa-valentine-rate-3.png",
+												    	"season3":"Holiday",
+												    	"price3":"-"
+											    	
+										   			}
+										  },
+										  {
+										  	"id":3,
+										    "title": "Amenities",
+										    "content": {
+										    	"top":"Swim in the infinity pool overlooking the Pacific coastline, swing in your room’s hammock, take a refreshing shower on the deck amid treetops. Hang out at the beach bar or on a lounge chair while you sunbathe. After communing with the sea you can go back to the comfort of your canopy bed, and when you finish dinner take a walk along the beach under a million star canvas.",
+										    	"left":"\n\nPool\n\nBeach View\n\nKichenettes\n\nFridge\n\nFridge\n\nWifi\n\nFans\n\nNear town\n\nPrivate\n\n",
+										    	"right":"\n\nFan\n\nWedding/Event\n\nYoga/Massage\n\nLocal Beer & Cocktails\n\nEvery room has a fan and fully airconditioned\n\nWe also have 24 hour security.\n\nWe do not have a shuttle service into town as guests need to rent a golf cart.",
+										    }
+										  }
+								   ]
+  },
+  "hotel_casita_azul":{
+  					  "hotelTitle":"Casita Azul",
+					  "hotelDesc":"The fully remodelled 4 bedroom/4 bathroom main Casita is a luxurious example of boho-chic international design blended with local craftsmanship. The massive palapa roof draws a fresh breeze off the ocean, and provides cooling shade over the open plan living area.\n\nThe fully equipped kitchen is decorated with hand painted azul tiles contrasting with the Pulido mosaic floors which span the living area and terraza. The impressive native wood table hosts a dinner for up to 20 guests with views of the jungle and Pacific, and a light and airy double bedroom with queen bed opens out to the adjacent living area.\n\nDownstairs is divided into 3 large double bedrooms with en-suite bathrooms, and a spacious lounge area with a small kitchen, dining table and TV. One of the bedrooms is set up for families with additional bunk beds. Natural ventilation flows from the ocean view decks of each room through to the main doors opening onto the pool terrace. The beautifully appointed master suite has views to Monkey Mountain and an open air bathroom looking towards to ocean.\n",
+					  
+					  "book_casa_link":"http://www.sayulita.com/casa-valentine.html",
+					  "book_full_resort_link":"http://www.sayulita.com/villas-valentin-full-resort.html",
+					  
+					  
+					  "hotel_images" : [
+									{
+										"id": 1,
+										
+										"imagePath": "../images/all_images/casa-valentine-slide-2.png"
+									},
+									{
+										"id": 2,
+										
+										"imagePath": "../images/all_images/casita-azul-slider1.jpg"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/casita-azul-slider2.jpg"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/casita-azul-slider3.jpg"
+									},
+									{
+										"id": 5,
+										
+										"imagePath": "../images/all_images/casita-azul-slider4.jpg"
+									},
+									{
+										"id": 6,
+										
+										"imagePath": "../images/all_images/casita-azul-slider5.jpg"
+									},
+									{
+										"id": 7,
+										
+										"imagePath": "../images/all_images/casita-azul-slider6.jpg"
+									},
+									{
+										"id": 8,
+										
+										"imagePath": "../images/all_images/casita-azul-slider7.jpg"
+									}
+						],
+					  "hotel_map" : 
+									{
+										"latitude": 20.8597738,
+										"longitude": -105.448096,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745,
+										
+									},
+					  "accordion_sec":[
+										  {
+										  	"id":1,
+										    "title": "Room Features",
+										    "content": "\n\n4 sleeps\n\nAir conditioningt\n\nFans\n\nHigh speed interne\n\nTea and coffee facilities\n\nFiltered water in the rooms\n\nNatural bathroom amenities\n\nMini fridge\n\nRoom saf\n\nClosets\n\nMosquito nets\n\nLouvered windows for ventilation and privacy\n\nHammocks in the palapa lounge\n",
+										  },
+										  {
+										  	"id":2,
+										    "title": "Rates",
+										    "content": {
+											   
+												    	"img1": "../images/all_images/casita-rosa-rate-1.png",
+												    	"season1":"Casa Valentine \n\n (Sleeps 10)\n\n",
+												    	"price1":"Low Season: $1100 + 16% tax\nHigh Season: $1600 + 16% tax ",
+												    	"img2": "../images/all_images/casita-rosa-rate-2.png",
+												    	"season2":"Valentine Full Resort \n\n (Sleeps 18)\n\n",
+												    	"price2":"Holiday: $3900 + 16% tax \nLow Season: $1700 + 16% tax \nHigh Season: $2400 + 16% tax ",
+											    		
+											    	
+										   			}
+										  },
+										  {
+										  	"id":3,
+										    "title": "Amenities",
+										    "content": {
+										    	"top":"Swim in the infinity pool overlooking the Pacific coastline, swing in your room’s hammock, take a refreshing shower on the deck amid treetops. Hang out at the beach bar or on a lounge chair while you sunbathe. After communing with the sea you can go back to the comfort of your canopy bed, and when you finish dinner take a walk along the beach under a million star canvas.",
+										    	"left":"\n\nPool\n\nBeach View\n\nKichenettes\n\nFridge\n\nWifi\n\nFans\n\n",
+										    	"right":"\n\nNear town\n\nPrivate\n\nFan\n\nWedding/Event\n\nYoga/Massage\n\nLocal Beer & Cocktails",
+										    }
+										  }
+								   ]
+  },
+  "hotel_casita_roja":{
+  					  "hotelTitle":"Casita Roja",
+					  "hotelDesc":"Spacious two bedroom Casita with crafted cupola ceilings, high quality king beds and luxury linens in each room. A beautifully finished double sink bathroom with hand painted traditional tiles sits between each bedroom, and a sunken palapa lounge provides a cool and airy place to relax. The outdoor pergola has a BBQ, small kitchen and dining table. This casual garden cocina has views over the jungle and is shared with the Casita Azul.\n",
+					  
+					  "book_casa_link":"http://www.sayulita.com/casa-valentine.html",
+					  "book_full_resort_link":"http://www.sayulita.com/villas-valentin-full-resort.html",
+					  
+					  
+					  "hotel_images" : [
+									{
+										"id": 1,
+										
+										"imagePath": "../images/all_images/casita-rosa-slide-1.png"
+									},
+									{
+										"id": 2,
+										
+										"imagePath":"../images/all_images/casa-valentine-slide-2.png"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/casita-azul-slider1.jpg"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/casita-azul-slider2.jpg"
+									},
+									{
+										"id": 5,
+										
+										"imagePath": "../images/all_images/casita-azul-slider3.jpg"
+									},
+									{
+										"id": 6,
+										
+										"imagePath": "../images/all_images/casita-azul-slider4.jpg"
+									},
+									{
+										"id": 7,
+										
+										"imagePath": "../images/all_images/casita-azul-slider5.jpg"
+									},
+									{
+										"id": 8,
+										
+										"imagePath": "../images/all_images/casita-azul-slider6.jpg"
+									},
+									{
+										"id": 9,
+										
+										"imagePath": "../images/all_images/casita-azul-slider7.jpg"
+									}
+									
+									
+								],
+					  "hotel_map" : 
+									{
+										"latitude": 20.8597738,
+										"longitude": -105.448096,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745
+										
+									},
+					 "accordion_sec":[
+										  {
+										  	"id":1,
+										    "title": "Room Features",
+										    "content": "\n\n4 sleeps\n\nAir conditioningt\n\nFans\n\nHigh speed interne\n\nTea and coffee facilities\n\nFiltered water in the rooms\n\nNatural bathroom amenities\n\nMini fridge\n\nRoom saf\n\nClosets\n\nMosquito nets\n\nLouvered windows for ventilation and privacy\n\nHammocks in the palapa lounge\n",
+										  },
+										  {
+										  	"id":2,
+										    "title": "Rates",
+										    "content": {
+											   
+												    	"img1": "../images/all_images/casita-rosa-rate-1.png",
+												    	"season1":"Casa Valentine \n (Sleeps 10)\n\n",
+												    	"price1":"Low Season: $1100 + 16% tax\nHigh Season: $1600 + 16% tax ",
+												    	"img2": "../images/all_images/casita-rosa-rate-2.png",
+												    	"season2":"Valentine Full Resort \n (Sleeps 18)\n\n",
+												    	"price2":"Holiday: $3900 + 16% tax \nLow Season: $1700 + 16% tax \nHigh Season: $2400 + 16% tax ",
+											    		
+											    	
+										   			}
+										  },
+										  {
+										  	"id":3,
+										    "title": "Amenities",
+										    "content": {
+										    	"top":"Swim in the infinity pool overlooking the Pacific coastline, swing in your room’s hammock, take a refreshing shower on the deck amid treetops. Hang out at the beach bar or on a lounge chair while you sunbathe. After communing with the sea you can go back to the comfort of your canopy bed, and when you finish dinner take a walk along the beach under a million star canvas.",
+										    	"left":"\n\nPool\n\nBeach View\n\nKichenettes\n\nFridge\n\nWifi\n\nFans\n\n",
+										    	"right":"\n\nNear town\n\nPrivate\n\nFan\n\nWedding/Event\n\nYoga/Massage\n\nLocal Beer & Cocktails",
+										    }
+										  }
+								   ]
+  },
+  "hotel_cenzontle":{
+  					  "hotelTitle":"Cenzontle",
+					  "hotelDesc":"Casa Cenzontle (zen ZONT lee), a two-story bungalow, stands proudly among the trees on the upper side of the canyon with a majestic view of the entire canyon and mountains beyond.\n\nIts fine kitchen, living room with sofa-bed and full deck with lounge chairs and dining table are on the first floor.\n\nAn outside stairway leads to the magnificent bedroom above with an even more expansive view, beautiful canopied king bed and teak and bamboo bath.\n\nLive in the best of both worlds in your beautiful luxury teak bungalow amid the trees one-quarter mile from our beach and in a great location to explore the adjacent beach just one mile down a beautiful jungle road.\n\nSayulita is only a 10 minute golf cart ride away. Whether your interest is shopping, dining or clubbing, you can easily drive your golf car almost anywhere in the Sayulita area or ride down the winding cobblestone road to the main hotel beach and enjoy the view, the smell of the jungle and sea and the sounds of nature.\n\nA Golf Car is available for free for Cenzontle guests.",
+					  "msgowner_email":"reservations@playa-escondida.com",
+					  "high_season":"325",
+					  "low_season":"215",
+					  "holiday_price":"$325",
+					  
+					  "hotel_images" : [
+									{
+										"id": 1,
+										
+										"imagePath": "../images/all_images/one.jpg"
+									},
+									{
+										"id": 2,
+										
+										"imagePath": "../images/all_images/two.jpg"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/three.jpg"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/four.jpg"
+									},
+									{
+										"id": 5,
+										
+										"imagePath": "../images/all_images/five.jpg"
+									},
+									{
+										"id": 6,
+
+										"imagePath": "../images/all_images/six.jpg"
+									}
+									
+									
+								],
+					  "hotel_map" : 
+									{
+										"latitude": 20.865470885013856,
+										"longitude": -105.45437168329954,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745
+										
+									},
+					 "accordion_sec":[
+										  {
+										  	"id":1,
+										    "title": "Room Features",
+										    "content": "\n\nCanopy queen bed\n\nfull bath\n\nfull kitche\n\nsofa-bed\n\nGolf cart\n\nfull deck downstairs\n\n",
+										  },
+										  {
+										  	"id":2,
+										    "title": "Rates",
+										    "content": {
+											   
+												    	"img1": "../images/all_images/cenzontle-rate-1.png",
+												    	"season1":"Low Season",
+												    	"price1":"$215 / Night",
+												    	"img2": "../images/all_images/cenzontle-rate-2.png",
+												    	"season2":"High Season",
+												    	"price2":"$275 / Night",
+											    		"img3": "../images/all_images/cenzontle-rate-3.png",
+												    	"season3":"Holiday",
+												    	"price3":"$325 / Night"
+											    	
+										   			}
+										  },
+										  {
+										  	"id":3,
+										    "title": "Amenities",
+										    "content": {
+										    	"top":"Swim in the infinity pool overlooking the Pacific coastline, swing in your room’s hammock, take a refreshing shower on the deck amid treetops. Hang out at the beach bar or on a lounge chair while you sunbathe. After communing with the sea you can go back to the comfort of your canopy bed, and when you finish dinner take a walk along the beach under a million star canvas.",
+										    	"left":"\n\nPool\n\nRestaurant\n\nSpa\n\nConcierge\n\n",
+										    	"right":"\n\nYoga deck\n\nBar/Lounge\n\nInternet\n\nShuttle\n\n"
+										    }
+										  }
+								   ]
+  },
+  "hotel_chachalaca":{
+  					  "hotelTitle":"Casa Chachalaca",
+					  "hotelDesc":"Casa Chachalaca (cha cha LA ca), on the upper canyon level, is an intimate sister to Casa Cenzontle, but with privacy and discrete separation.\n\nIt has the same elegance and quality throughout but, in addition, has a bedroom deck with incomparable view. The teak bed is a canopied queen for intimate comfort.\n\nThe bath is bamboo and teak with solid bronze shower fixtures and granite and ceramic counter and sink.\n\nAn outside stairway leads to the magnificent bedroom above with an even more expansive view, beautiful canopied king bed and teak and bamboo bath.\n\nSayulita is only a 10 minute golf cart ride away. Whether your interest is shopping, dining or clubbing, you can easily drive your golf car almost anywhere in the Sayulita area or ride down the winding cobblestone road to the main hotel beach and enjoy the view, the smell of the jungle and sea and the sounds of nature.\n\nA Golf Car is available for free for Chachalaca guests.",
+					  "msgowner_email":"reservations@playa-escondida.com",
+					  "high_season":"300",
+					  "low_season":"225",
+					  "holiday_price":"$350",
+					  
+					  "hotel_images" : [
+									{
+										"id": 1,
+										
+										"imagePath": "../images/all_images/ab.jpg"
+									},
+									{
+										"id": 2,
+										
+										"imagePath": "../images/all_images/ac.jpg"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/ad.jpg"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/ae.jpg"
+									},
+									{
+										"id": 5,
+										
+										"imagePath": "../images/all_images/af.jpg"
+									},
+									{
+										"id": 6,
+										
+										"imagePath": "../images/all_images/ag.jpg"
+									}
+									
+									
+								],
+					  "hotel_map" : 
+									{
+										"latitude": 20.865470885013856,
+										"longitude": -105.45437168329954,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745
+										
+									},
+					 "accordion_sec":[
+										  {
+										  	"id":1,
+										    "title": "Room Features",
+										    "content": "\n\nCanopy queen bed\n\nfull bath\n\nfull kitche\n\nsofa-bed\n\nGolf cart\n\nfull deck downstairs upstairs and downstairs\n\n",
+										  },
+										  {
+										  	"id":2,
+										    "title": "Rates",
+										    "content": {
+											   
+												    	"img1": "../images/all_images/chachalaca-rate-1.png",
+												    	"season1":"Low Season",
+												    	"price1":"$225 / Night",
+												    	"img2": "../images/all_images/chachalaca-rate-2.png",
+												    	"season2":"High Season",
+												    	"price2":"$300 / Night",
+											    		"img3": "../images/all_images/chachalaca-rate-3.png",
+												    	"season3":"Holiday",
+												    	"price3":"$350 / Night",
+											    	
+										   			}
+										  },
+										  {
+										  	"id":3,
+										    "title": "Amenities",
+										    "content": {
+										    	"top":"Swim in the infinity pool overlooking the Pacific coastline, swing in your room’s hammock, take a refreshing shower on the deck amid treetops. Hang out at the beach bar or on a lounge chair while you sunbathe. After communing with the sea you can go back to the comfort of your canopy bed, and when you finish dinner take a walk along the beach under a million star canvas.",
+										    	"left":"\n\nPool\n\nRestaurant\n\nSpa\n\nConcierge\n\n",
+										    	"right":"\n\nYoga deck\n\nBar/Lounge\n\nInternet\n\nShuttle\n\n"
+										    }
+										  }
+								   ]
+  },
+  "hotel_golondrina":{
+  					  "hotelTitle":"Casa Golondrina",
+					  "hotelDesc":"Casa Golondrina, the smallest of the Teak bungalows, is a stilt bungalow built ten feet on top of nine 30 year-old teak tree trunks bridging a small draw between towering palm trees and luxurious banana plants.\n\nSurrounded by the soothing sounds of the jungle sits a lower deck where you can enjoy of a view towards the tropical jungle meanwhile you relax drinking a cup of coffee or reading that book you been wanting to finish.\n\nLive an intimate and unique experience while relaxing in warm water in the outdoor jacuzzi in the lower deck tucked by tropical nature.\n\nSayulita is only a 10 minute golf cart ride away. Whether your interest is shopping, dining or clubbing, you can easily drive your golf car almost anywhere in the Sayulita area or ride down the winding cobblestone road to the main hotel beach and enjoy the view, the smell of the jungle and sea and the sounds of nature.\n\nA Golf Car is available for free for Golondrina guests.",
+					  "msgowner_email":"reservations@playa-escondida.com",
+					  "high_season":"275",
+					  "low_season":"200",
+					  "holiday_price":"$325",
+					  
+					  "hotel_images" : [
+									{
+										"id": 1,
+
+										"imagePath": "../images/all_images/ba.jpg"
+									},
+									{
+										"id": 2,
+										
+										"imagePath": "../images/all_images/bb.jpg"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/bc.jp"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/bd.jpg"
+									},
+									{
+										"id": 5,
+										
+										"imagePath": "../images/all_images/be.jpg"
+									},
+									{
+										"id": 6,
+										
+										"imagePath": "../images/all_images/bf.jpg"
+									}
+									
+									
+								],
+					  "hotel_map" : 
+									{
+										"latitude": 20.865470885013856,
+										"longitude": -105.45437168329954,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745
+										
+									},
+					  "accordion_sec":[
+										  {
+										  	"id":1,
+										    "title": "Room Features",
+										    "content": "\n\nCanopy queen bed\n\nfull bath\n\nPrivacy\n\nsofa-bed\n\nGolf cart\n\nhalf-deck\n\nJacuzzi\n\n",
+										  },
+										  {
+										  	"id":2,
+										    "title": "Rates",
+										    "content": {
+											   
+												    	"img1": "../images/all_images/golondrina-rate-1.png",
+												    	"season1":"Low Season",
+												    	"price1":"$200 / Night",
+												    	"img2": "../images/all_images/golondrina-rate-2.png",
+												    	"season2":"High Season",
+												    	"price2":"$275 / Night",
+											    		"img3": "../images/all_images/golondrina-rate-3.png",
+												    	"season3":"Holiday",
+												    	"price3":"$325 / Night"
+											    	
+										   			}
+										  },
+										  {
+										  	"id":3,
+										    "title": "Amenities",
+										    "content": {
+										    	"top":"Swim in the infinity pool overlooking the Pacific coastline, swing in your room’s hammock, take a refreshing shower on the deck amid treetops. Hang out at the beach bar or on a lounge chair while you sunbathe. After communing with the sea you can go back to the comfort of your canopy bed, and when you finish dinner take a walk along the beach under a million star canvas.",
+										    	"left":"\n\nPool\n\nRestaurant\n\nSpa\n\nConcierge\n\n",
+										    	"right":"\n\nYoga deck\n\nBar/Lounge\n\nInternet\n\nShuttle\n\n"
+										    }
+										  }
+					    ]
+  },
+  "hotel_kupuri":{
+  					  "hotelTitle":"Hotel Kupuri",
+					  "hotelDesc":"Hotel Kupuri strives to provide a majestic vacationing experience by catering superior service in a sophisticated setting, so that our guests can aquire total harmony with mind, body, and soul.\n\nHotel Kupuri is located in the heart and soul of one of Mexico's most cherished gems, Sayulita, Nayarit. For this purpose, it's no wonder that its name, 'Kupuri',actually means 'soul' in Huichol the dialect spoken by he indigenous people of Nayarit, Mexico.\n\nHotel Kupuri offers its guests a magical getaway experience suitable for families, friends, honeymooners, or unaccompanied travelers. This gorgeous boutique hotel features a total of twenty accommodations.\n",
+					  "msgowner_email":"hotelkupuri@hotmail.com",
+					  
+					  "high_season":"$330.25",
+					  "low_season":"$277.31",
+					  "hotel_images" : [
+									{
+										"id": 1,
+										
+										"imagePath": "../images/all_images/k1.png"
+									},
+									{
+										"id": 2,
+										
+										"imagePath": "../images/all_images/k2.png"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/k3.png"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/k4.png"
+									},
+									{
+										"id": 5,
+										
+										"imagePath": "../images/all_images/k5.png"
+									},
+									{
+										"id": 6,
+										
+										"imagePath": "../images/all_images/k6.png"
+									},
+									{
+										"id": 7,
+										
+										"imagePath": "../images/all_images/k7.png"
+									},
+									{
+										"id": 8,
+										
+										"imagePath": "../images/all_images/k8.png"
+									},
+									{
+										"id": 9,
+										
+										"imagePath": "../images/all_images/k9.png"
+									},
+									{
+										"id": 10,
+										
+										"imagePath": "../images/all_images/k10.png"
+									},
+									{
+										"id": 11,
+										
+										"imagePath": "../images/all_images/k13.png"
+									},
+									{
+										"id": 12,
+										
+										"imagePath": "../images/all_images/k14.png"
+									}
+									
+									
+									
+								],
+					  "hotel_map" : 
+									{
+										"latitude": 20.869538,
+										"longitude": -105.439859,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745
+										
+									},
+					   "accordion_sec":[
+										  {
+										  	"id":1,
+										    "title": "Room Features",
+										    "content": "\n\nSix Junior Suites\n\nEleven Master Suites\n\nTwo Presidential Suites\n\nOne Honeymoon Suite\n\nFree Wi-Fi\n\nSpacious armoires\n\nAir-conditioning\n\nCable flat-screen TV\n\nLuxury bathrooms",
+										  },
+										  {
+										  	"id":2,
+										    "title": "Rates",
+										    "content": {
+											   
+												    	"left": "Rates\n\nMaster Suite Apartment (Sleeps : 7 & Cuartos: 1)\nLuna de Miel / Honey moon Suite (Sleeps : 2 & Cuartos: 1)\nKing Ejecutiva / Executive King (Sleeps : 2 & Cuartos: 1)\nKing Balcon / King Balcony (Sleeps : 2 & Cuartos: 2)\n2 Matrimoniales / Double (Sleeps : 4 & Cuartos: 6)\nEstandard King / King Standard (Sleeps : 2 & Cuartos: 6)\nQueen Estandard / Queen Standard (Sleeps : 2 & Cuartos: 3)\nQueen Jr (Sleeps : 2 & Cuartos: 3)",
+												    	"middle":"Holiday prices\n\n$330.25\n$181.51\n$165.55\n$142.86\n$159.66\n$131.93\n$121.01\n$110.08",
+												    	"right":"Regular Prices\n\n$277.31\n$148.74\n$131.93\n$121.01\n$121.01\n$99.16\n$82.35\n$71.43",
+												    	
+										   			}
+										  },
+										  {
+										  	"id":3,
+										    "title": "Amenities",
+										    "content": {
+										    	"top":"Swim in the infinity pool overlooking the Pacific coastline, swing in your room’s hammock, take a refreshing shower on the deck amid treetops. Hang out at the beach bar or on a lounge chair while you sunbathe. After communing with the sea you can go back to the comfort of your canopy bed, and when you finish dinner take a walk along the beach under a million star canvas.",
+										    	
+										    	"left":"\n\nMajesty and sophistication\n\nAmazing panoramic view of Sayulita\n\nTalented chefs\n\nWifi\n\nParking\n",
+										    	"right":"\n\nPool with unique design\n\nSports, ecotourism and nightlife\n\nBars\n\nDining\n",
+										    	
+										    }
+										  }
+					        ]
+  },
+  "hotel_marysuenos":{
+  					  "hotelTitle":"Mar y Suenos Suites",
+					  "hotelDesc":"The 2/2 Mar y Suenos House has a fully equipped kitchen; a private third floor terrace with spectacular ocean/village views; sitting area/patio on the second floor and a queen bed in both bedrooms. Pool access. Daily Maid Service. WIFI. Cable TV. DVD. Jacuzzi in a garden setting. A/C. Purified water and safe in unit. Parking.\n\nEach Mar y Suenos studio apartment has a fully equipped kitchenette; two private balconies with ocean/jungle/pool views; sitting area and a queen bed with quality linens and decor. Pool. Jacuzzi in tropical garden setting. Daily Maid Service. WIFI. DVD. Cable TV. A/C. Purified water and safe in unit. There is a rooftop garden terrace with sweeping ocean views/tables/chairs/patio furniture for guest use. Breakfast is available for very competitive prices and is served on the terrace patio. Parking. There are 5 studio apartments with 1 queen bed and 1 studio apartment with 2 queen beds.\n",
+					  "msgowner_email":"marysuenos.sayulita@gmail.com",
+					  "high_season":"130",
+					  "low_season":"140",
+					  "holiday_price":"$99",
+					  
+					  "hotel_images" : [
+									{
+										"id": 1,
+										
+										"imagePath": "../images/all_images/vista3-2.jpg"
+									},
+									{
+										"id": 2,
+										
+										"imagePath": "../images/all_images/vista3-1.jpg"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/terraza2.jpg"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/terraza.jpg"
+									},
+									{
+										"id": 5,
+										
+										"imagePath": "../images/all_images/Fachada-4.jpg"
+									},
+									{
+										"id": 6,
+										
+										"imagePath": "../images/all_images/Fachada-3.jpg"
+									},
+									{
+										"id": 7,
+										
+										"imagePath": "../images/all_images/cama-1.jpg"
+									},
+									{
+										"id": 8,
+										
+										"imagePath": "../images/all_images/alberca-1.jpg"
+									},
+									{
+										"id": 9,
+										
+										"imagePath": "../images/all_images/Fachada-2.jpg"
+									},
+									{
+										"id": 10,
+										
+										"imagePath": "../images/all_images/Fachada-1.jpg"
+									}
+									
+									
+								],
+					  "hotel_map" : 
+									{
+										"latitude": 20.872753,
+										"longitude": -105.433742,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745
+										
+									},
+					  "accordion_sec":[
+										  {
+										  	"id":1,
+										    "title": "Room Features",
+										    "content": "\n\nMar y Suenos Suites is a small, guest friendly vacation accommodation located in a tropical, tranquil setting just 2 1/2 blocks from the beach and a ten minute walk to the village center (plaza.). Guests comment that they enjoy waking to sounds of tropical birds and falling to sleep with background sounds of waves hitting the beach shoreline. The establishment consists of two buildings: A separate 2/2 house and an apartment building consisting of 6 studio apartments. Guests may opt to cook their meals in their fully equipped kitchenettes (house- full kitchen) or purchase breakfast on the rooftop ocean view terrace where free coffee is served,also, daily. Grounds enhance the tropical setting and highlight the large 6 person Jacuzzi and pool.Restaurants and shops are located within 3 blocks and line the pathway to the town plaza. Parking on site. Golf cart and scooter rentals available.\n\nEnjoy magnificent, sweeping views of the bay and Sayulita, bougainvilla studded gardens and crystal blue pool. Soak in the magnificent Jacuzzi embraced by a natural tropical setting. Savor a quiet, traditionally prepared breakfast in the upstairs terrace while imbibing breath- taking ocean views and drink options during Happy Hour. All of the above create a relaxing respite for wearied beach and village enthusiasts at Mar y Suenos.\n\nMar y Suenos consists of two tropical style, recently constructed buildings: A separate 2/2 house and an apartment building consisting of 6 studio apartments. Units have a quaint but tasteful, tropical Mexican flair with all modern amenities including but not limited to: Flat screen T.V.; DVD player; A/C; hair dryer; ceiling fan;screened windows; kitchenettes including microwave, stove top burners; blender; coffee maker; refrigerator; cooking utensils, purified water and safe.Daily Maid Service is provided. All units have private balcony or terrace access with ocean views, jungle or pool views. Parking is available on site.\n\n",
+										  },
+										  {
+										  	"id":2,
+										    "title": "Rates",
+										    "content": {
+											   
+												    	"img1": "../images/all_images/marysuenos-suites-rate-1.png",
+												    	"season1":"Low Season",
+												    	"price1":"$80 US\n1 queen bed studio apts.\n$99 US\n2 queen bed studio apts.\n$125 US\n2/2 house",
+												    	"img2": "../images/all_images/golondrina-rate-2.png",
+												    	"season2":"High Season",
+												    	"price2":"$85/Night\n1 queen bed studio apts.\n$130/Night\n2 queen bed studio apts.\n$160/Night\n2/2 house",
+											    		"img3": "../images/all_images/golondrina-rate-3.png",
+												    	"season3":"Christmas Holiday",
+												    	"price3":"$90/Night\n1 queen bed studio apts.\n$140/Night\n2 queen bed studio apts.\n$175/Night\n2/2 house",
+											    	
+										   			}
+										  },
+										  {
+										  	"id":3,
+										    "title": "Amenities",
+										    "content": {
+										    	"top":"Swim in the infinity pool overlooking the Pacific coastline, swing in your room’s hammock, take a refreshing shower on the deck amid treetops. Hang out at the beach bar or on a lounge chair while you sunbathe. After communing with the sea you can go back to the comfort of your canopy bed, and when you finish dinner take a walk along the beach under a million star canvas.",
+										    	"title1":"2/2 Mar y Suenos House",
+										    	"left1":"\n\nKitchen\n\nPrivate Terrace\n\nOcean views\n\nQueen Bed\n\nA/C\n\nPool\n\nParking",
+										    	"right1":"\n\nDaily Maid\n\nWifi\n\nCable TV\n\nDVD\n\nGarden\n\nPurified water",
+										    	"title2":"Each Mar y Suenos studio apartment",
+										    	"left2":"\n\nOcean and Jugle view\n\nKitchen\n\nTwo Private Bolconies\n\nSitting Area\n\nQueen Bed\n\nLinens & Decor\n\nPool\n\nJacuzzi\n\nDaily Maid\n\nWifi",
+										    	"right2":"\n\nCable TV\n\nDVD\n\nA/C\n\nPurified Water\n\nRooftop Garden (Furnished)\n\nBreakfast\n\nParking\n\n1 Queen bed set\n\n2 Queen bed set",
+										    	
+										    }
+										  }
+					        ]
+  },
+  "hotel_sayulita_villa":{
+  					  "hotelTitle":"Sayulita 5 Bed Room Villa with Golf Cart",
+					  "hotelDesc":"Piedra Blanca is 3BR UP TO 5BR that can host up to 12 adults and 2 kids. If need be it can be accommodated with our other new Villa, Casa Periquito, which is along side Piedra Blanca, and with both, they can host up to 12 persons in total.\n\nPiedra Blanca, is Sayulita's newest villa which offers Sweeping panoramic ocean views extending from Sayulita point to the open ocean. Amazing infinity pool on large outdoor entertainment area. Very private residence, with no downtown noise or disturbance. Access to the residence from Nanzal is via private gate featuring landscaping , including soft landscape lighting\n\nGreat location for access to both the beach and downtown.\n\nEverything Sayulita has to offer is as close as walking out the front door. We have umbrellas and beach chairs surf boards that go on our custom GOLF CAR so its zero hassle 3 blocks to the surf, have a drink, surf, read or whatever.\n\nIts a new home so it is quiet if you close the windows as they are soundproof, or you can listen to the ocean with the doors open. Either way, its a combination that ensures you get what you want...\n",
+					  "msgowner_email":"sayulita_homes@live.com",
+					  "high_season":"700",
+					  "low_season":"300",
+					  "holiday_price":"$700",
+					  
+					  "hotel_images" : [
+									{
+										"id": 1,
+										
+										"imagePath": "../images/all_images/beach-View.jpg"
+									},
+									{
+										"id": 2,
+										
+										"imagePath": "../images/all_images/Bedrooms-villa.jpg"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/House-Cleaning.jpg"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/room-0210.jpg"
+									}
+									
+									
+								],
+					  "hotel_map" : 
+									{
+										"latitude": 20.868266,
+										"longitude": -105.441253,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745
+										
+									},
+					  "accordion_sec":[
+										  {
+										  	"id":1,
+										    "title": "Room Features",
+										    "content": "\n\n3 Bedrooms, Sleeps 8, Beds for 8\n\n4 Bathrooms\n\nEntertainment: Books, Satellite / Cable, Television, DVD Player, Stereo\n\nLocation Type: Ocean View, Water View\n\nDining: Dining, Dining Area, Seating for 10 people\n\nKitchen\n\nParking\n\nInternet\n\n100% refund if canceled at least 30 days before arrival date.\n\n",
+										  },
+										  {
+										  	"id":2,
+										    "title": "Rates",
+										    "content": {
+											   
+												    	"img1": "../images/all_images/sayulita-villa-rate-1.png",
+												    	"season1":"Low Season",
+												    	"price1":"$300 / Night",
+												    	"img2": "../images/all_images/sayulita-villa-rate-1.png",
+												    	"season2":"High Season",
+												    	"price2":"$450 / Night",
+											    		"img3": "../images/all_images/sayulita-villa-rate-1.png",
+												    	"season3":"Holiday",
+												    	"price3":"$700 / Night"
+											    	
+										   			}
+										  },
+										  {
+										  	"id":3,
+										    "title": "Amenities",
+										    "content": {
+										    	"top":"Swim in the infinity pool overlooking the Pacific coastline, swing in your room’s hammock, take a refreshing shower on the deck amid treetops. Hang out at the beach bar or on a lounge chair while you sunbathe. After communing with the sea you can go back to the comfort of your canopy bed, and when you finish dinner take a walk along the beach under a million star canvas.",
+										    	"left":"\n\nTV\n\nDVD\n\nWifi\n\nKitchen\n\nParking\n\n",
+										    	"right":"\n\nGolf\n\nBook\n\nFurnished\n\nPool\n\n",
+										    }
+										  }
+								   ]
+  },
+  "hotel_trogon":{
+  	 				  "hotelTitle":"Trogon",
+					  "hotelDesc":"Casa Trogon (tr-owe g-OWN), a two-story bungalow, sits on a knoll among the trees on the lower part of the canyon with a great view of the lower canyon and a majestic stand of palm trees.\n\nIts fine kitchen, living room with sofa-bed and full deck with lounge chairs and dining table are on the first floor.\n\nAn outside stairway leads to the magnificent bedroom above with an even more expansive view, beautiful canopied king bed and jungle-view bath.\n\nLive in the best of both worlds in your beautiful luxury teak bungalow amid the trees one-quarter mile from our beach and in a great location to explore the adjacent beach just one mile down a beautiful jungle road.\n\nSayulita is only a 10 minute golf cart ride away. Whether your interest is shopping, dining or clubbing, you can easily drive your golf car almost anywhere in the Sayulita area or ride downthe winding cobblestone road to the main hotel beach and enjoy the view, the smell of the jungle and sea and the sounds of nature.\n\nA Golf Car is available for free for Trogon guests.",
+					  "msgowner_email":"reservations@playa-escondida.com",
+					  "high_season":"250",
+					  "low_season":"195",
+					  "holiday_price":"$265",
+					  
+					  "hotel_images" : [
+									{
+										"id": 1,
+										
+										"imagePath": "../images/all_images/a1.jpg"
+									},
+									{
+										"id": 2,
+										
+										"imagePath": "../images/all_images/a2.jpg"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/a3.jpg"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/a4.jpg"
+									},
+									{
+										"id": 5,
+										
+										"imagePath": "../images/all_images/a5.jpg"
+									},
+									{
+										"id": 6,
+										
+										"imagePath": "../images/all_images/a6.jpg"
+									}
+										],
+					  "hotel_map" : 
+									{
+										"latitude": 20.868266,
+										"longitude": -105.441253,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745
+
+									},
+					  "accordion_sec":[
+										  {
+										  	"id":1,
+										    "title": "Room Features",
+										    "content": "\n\nqueen bed\n\nfull bath\n\nfull deck downstairs\n\nfull kitchen\n\nWiFi\n\nGolf cart\n\n",
+										  },
+										  {
+										  	"id":2,
+										    "title": "Rates",
+										    "content": {
+											   
+												    	"img1": "../images/all_images/trogon.png",
+												    	"season1":"Low Season",
+												    	"price1":"$195 / Night",
+												    	"img2": "../images/all_images/trogon-rate-1.png",
+												    	"season2":"High Season",
+												    	"price2":"$250 / Night",
+											    		"img3": "../images/all_images/trogon-rate-2.png",
+												    	"season3":"Holiday",
+												    	"price3":"$265 / Night"
+											    	
+										   			}
+										  },
+										  {
+										  	"id":3,
+										    "title": "Amenities",
+										    "content": {
+												    	"top":"Swim in the infinity pool overlooking the Pacific coastline, swing in your room’s hammock, take a refreshing shower on the deck amid treetops. Hang out at the beach bar or on a lounge chair while you sunbathe. After communing with the sea you can go back to the comfort of your canopy bed, and when you finish dinner take a walk along the beach under a million star canvas.",
+												    	"left":"\n\nPool\n\nRestaurant\n\nSpa\n\nConcierge\n\n",
+												    	"right":"\n\nYoga deck\n\nBar/Lounge\n\nInternet\n\nShuttle\n\n"
+										    		}
+										  }
+								   ]
+  },
+  "hotel_villa_pcaso":{
+  					  "hotelTitle":"Villa PCaso",
+					  "hotelDesc":"If you dare to treat yourselves, come live in art, high on a quiet hill top, hidden in the south central side of Sayulita. Villa PCaso is close to town plaza and beaches at only a 3 to 5 min walk to either! (without the noise and 10-15 minute dusty walk from the north side! ). Only the sound of ocean waves and songs of abundant jungle life, sooth your senses as you take in the ever changing north coast views. On special days, a huge mountain range appears behind the horizon, like magic.\n\nEnjoy the architectural details of simple whimsical elegance, as they tickle you with surprise, calm you with curves, jazz you with originality, while some, evoke fond memories of your childhood to experience a new. Look out any portal window, or opening, and discover a new work of art “framed”, the universe paints for you daily. You will realize too, the gardens have been designed with the same attention to detail and humor to draw a smile. Shower in nature, while enjoying the vistas of Monkey mountain, or the ‘still life’ of Iguanas hoping you won’t see them in the great tree out back…, and maybe even pick a ripe banana when you are ready to dry off. You may even see rare Woodpeckers ratatat-tatting for their young’s morsel, or a flock of bright green parrots noisily “alerting the media” of they’re presence during a morning or evening rinse. From the large upper deck.. wander over, pick a succulent ripe mango for an energy boost. You may need it if you see the waves are standing up nicely, begging you to be they’re dance partner just once, with you on board. After all, surfing is one of Sayulita’s finest draws.\n\n",
+					  "msgowner_email":"blutoe@mac.com",
+					  "high_season":"330.25",
+					  "low_season":"277.31",
+					  "holiday_price":"$995",
+					  
+					  "hotel_images" : [
+									{
+										"id": 1,
+										
+										"imagePath": "../images/all_images/Villa-PCaso-1.jpg"
+									},
+									{
+										"id": 2,
+										
+										"imagePath": "../images/all_images/Villa-PCaso-2.jpg"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/Villa-PCaso-3.jpg"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/Villa-PCaso-4.jpg"
+									},
+									{
+										"id": 5,
+										
+										"imagePath": "../images/all_images/Villa-PCaso-5.jpg"
+									},
+									{
+										"id": 6,
+										
+										"imagePath": "../images/all_images/Villa-PCaso-6.jpg"
+									},
+									{
+										"id": 7,
+										
+										"imagePath": "../images/all_images/Villa-PCaso-7.jpg"
+									},
+									{
+										"id": 8,
+										
+										"imagePath": "../images/all_images/Villa-PCaso-8.jpg"
+									},
+									{
+										"id": 9,
+										
+										"imagePath": "../images/all_images/Villa-PCaso-9.jpg"
+									},
+									{
+										"id": 10,
+										
+										"imagePath": "../images/all_images/Villa-PCaso-500.jpg"
+									}
+									
+									
+								],
+					  "hotel_map" : 
+									{
+										"latitude": 20.8694046,
+										"longitude": -105.4461452,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745
+										
+									},
+					  "accordion_sec":[
+										  {
+										  	"id":1,
+										    "title": "Room Features",
+										    "content": "\n\nBut alas! No waves for your vigorous morning exercise routine? Go swim laps in the “neck” lap lane of the Picasso head shaped swimming pool. Pistachio PCaso may blush if she sees you are naked, with her huge eyes! Rest in her “love-seat” ruby red lips, while a jet relaxes a back muscle tightness away. Feel a siesta coming on? Grab a book, and go BE the man or woman in the moon, while lounging and enjoying the ocean or garden views from the moon with a silver lining window. You probably wont read much during the daylight hours, with the spell binding views. But you could at night when daylight is turned off, after enjoying the sunset from the upper roof patio.\n\nTwice a year for one week, in April and September, look for the illusive green flash as the sun marches by a valley that frames the ocean. When the sandman cometh, any cozy room of your choosing will coddle you to sleep, while nature’s new morning surprises out the windows are orchestrated for your awaking. A/C whispers for more comfort if you choose. In the “penthouse suite”, coffee awaits just around the corner in the outdoor 2nd kitchen/bar area with vistas of Sayulita’s beautiful coastlines and jungle mountains that will hold you silent. Listen, and you will hear hints Sayulita is stirring, adding ingredients for your day dawning. Then it dawns on you, you have not left the house in, How many days? What day is it really? In silence, you may realize for the first time… Ha!, it really does not matter!. Just then, the silence of morning is broken by your house guest laying in the “hair” of the pool below when calling out, “What day is it?” You reply in content joy.. “who cares! ” Because you still don’t know, and it really doesn’t matter, when you “live in art”!\n\n4 Bathrooms\n\nBaths 4\n\nSleeps 8\n\n",
+										  },
+										  {
+										  	"id":2,
+										    "title": "Rates",
+										    "content": {
+											   
+												    	"img1": "../images/all_images/villa-pcaso-rate-1.png",
+												    	"season1":"Low Season",
+												    	"price1":"$445 / Night",
+												    	"img2": "../images/all_images/villa-pcaso-rate-2.png",
+												    	"season2":"High Season",
+												    	"price2":"$545 / Night",
+											    		"img3": "../images/all_images/villa-pcaso-rate-3.png",
+												    	"season3":"Holiday",
+												    	"price3":"$995 / Night"
+											    	
+										   			}
+										  },
+										  {
+										  	"id":3,
+										    "title": "Amenities",
+										    "content": {
+										    	"top":"Swim in the infinity pool overlooking the Pacific coastline, swing in your room’s hammock, take a refreshing shower on the deck amid treetops. Hang out at the beach bar or on a lounge chair while you sunbathe. After communing with the sea you can go back to the comfort of your canopy bed, and when you finish dinner take a walk along the beach under a million star canvas.",
+										    	"left":"\n\nLuxury Rental\n\nMountain View\n\nOcean View\n\nPanoramic View\n\nTown View\n\nA/C\n\nBarbeque\n\nFireplace\n\nParking\n\nPatio / Terrace\n\nShared Pool\n\nDVD Player\n\nStereo/CD Player\n\nTV\n\nComputer\n\n",
+										    	"right":"\n\nInternet\n\nTelephone\n\nChef Available\n\nFull Kitchen\n\nKitchenette\n\nMicrowave\n\nDryere\n\nWasher\n\nFull Time Staff\n\nHousekeeping\n\nGLBT Friendly\n\nKid Friendly\n\nPet Friendly\n\nSafe\n\n",
+										    }
+										  }
+								   ]
+  },
+  "hotel_villas_piedra_blanca":{
+  					  "hotelTitle":"Villas Piedra Blanca",
+					  "hotelDesc":"Casa Roca is a villa 3,500 sq. ft. inside of a gated comunity in the north side od Sayulita, it can host up to 8 people, it has full equipped kitchen, a dinning room, a reading area and the living room with Satellite/Cable TV, stereo, DVD player and Wi-fii. The house has three bedrooms with their own bathroom and air conditioning, the house provides linnens and bath towels, and one beach towel per bedroom.\n\n",
+					  "msgowner_email":"rivnayllc@icloud.com",
+					  "high_season":"990",
+					  "low_season":"475",
+					  "holiday_price":"ask for price",
+					  
+					  "hotel_images" : [
+									{
+										"id": 1,
+										"imagePath": "../images/all_images/casa-valentine-slide-2.png"
+										
+									},
+									{
+										"id": 2,
+										
+										"imagePath": "../images/all_images/casita-azul-slider1.jpg"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/casita-azul-slider2.jpg"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/casita-azul-slider3.jpg"
+									},
+									{
+										"id": 5,
+										
+										"imagePath": "../images/all_images/casita-azul-slider4.jpg"
+									},
+									{
+										"id": 6,
+										
+										"imagePath": "../images/all_images/casita-azul-slider5.jpg"
+									},
+									{
+										"id": 7,
+										
+										"imagePath": "../images/all_images/casita-azul-slider6.jpg"
+									},
+									{
+										"id": 8,
+										
+										"imagePath": "../images/all_images/casita-azul-slider7.jpg"
+									}
+									
+									
+								],
+					  "hotel_map" : 
+									{
+										"latitude": 20.868266,
+										"longitude": -105.441253,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745
+										
+									},
+					 "accordion_sec":[
+										  {
+										  	"id":1,
+										    "title": "Room Features",
+										    "content": {
+										    	"title1": "Casa Roca",
+										    	"cnt1": "Casa Roca is a villa 3,500 sq. ft. inside of a gated comunity in the north side od Sayulita, it can host up to 8 people, it has full equipped kitchen, a dinning room, a reading area and the living room with Satellite/Cable TV, stereo, DVD player and Wi-fii. The house has three bedrooms with their own bathroom and air conditioning, the house provides linnens and bath towels, and one beach towel per bedroom.\n\nCasa Roca has a large terrace with a BBQ area and a pool with stunning views to the ocean, the jungle and a great view of Sayulita town.\n\nThe house comes with a Golf Cart that you can use during your stay, as well as buggyboards and much more.\n\nIf you are looking a big place for a party, for a special celebration this is the place for you, Casa Roca and Casa Piedra Azul are next to each other, where it could host up to 14 people.\n\n",
+										    	"note1":"Check in is at 4:00 P.M. and Check out is at 11:00 A.M.\n\nA 50 % deposit is due at booking with balance due 45 days before arrival.\n\nPricing includes house keeping.\n\nSecurity deposit will be need it at Check inn.\n\nGolf Cart service fee at Check inn.",
+										    	"title2": "Casa Piedra Azul",
+										    	"cnt2": "Casa Piedra Azul is a villa with 3,500 sq. ft. inside of a gated comunity in the north side of Sayulita, it can host up to 4 adults and 2 kids, it has full equipped kitchen with a Wolf stove and a 48 Sub-Zero frige, a dinning room, the living room with Satellite TV, stereo, DVD player, Wi-fii and central air conditioner. The house has two bedrooms and with one and a half bathrooms, each bedroom have a king size bed that can turn into two twin beds, its own closet and air conditioning, the house provides linnens and bath towels, and one beach towel per bedroom.\n\nCasa Piedra Azul has a large terrace with a BBQ area and a pool with stunning views to the ocean, and the jungle.\n\nIf you are looking a big place for a party, for a special celebration this is the place for you, Casa Roca and Casa Piedra Azul are next to each other, where it could host up to 14 people.\n\n",
+										    	"note2": "Check in is at 4:00 P.M. and Check out is at 11:00 A.M.\n\nCancellation Policy is available by contacting owner when booking.\n\nA 50 % deposit is due at booking with balance due 45 days before arrival.\n\nPricing includes house keeping.\n\nSecurity deposit will be need it at Check inn.",
+										   		"title3": "Casa Tranquilo",
+										    	"cnt3": "Recently remodeled Home on Exclusive North side beachfront location in the heart of Sayulita!\n\nCruise town in awesome new Golf Car *includeed for the ultimate experience!\n\nCasa Tranquilo IS ONE OF ONLY ABOUT 15 ACTUAL BEACHFRONT HOMES IN SAYULITA~ NO ROAD OR MOUNTAIN TO WALK DOWN...JUST SAND ON YOUR FEET IN FRONT OF TERRACE!\n\nOn the land side, Casa Tranquilo sits directly beside a wild and completely undeveloped jungle canyon. The sunsets are magnificent.\n\nCasa Tranquillo features three bedrooms, two have adjoining baths. Two bedrooms open directly onto the patio in front of the ocean, and not only has a gorgeous ocean view, but looks out as well into the wild jungle canyon. The house can sleep six people in style, and if needed, cots for children can be set up in the bedroom.\n\nCasa Tranquillo offers beach style furnishings , you will find fine hardwood furniture from Malaysia. There are original paintings on the walls and great hang out furniture on the terrace.\n\nCasa Tranquilo would be the perfect place for a honeymoon. But if you aren’t on your honeymoon, why not treat yourself to this anyway.",
+										    	"note3":"Check in is at 4:00 P.M. and Check out is at 11:30 A.M.\n\nCancellation Policy is available by contacting owner when booking.\n\nA 50 % deposit is due at booking with balance due 30 days before arrival.\n\nPricing includes house keeping.\n\n",
+										    },
+										  },
+										  {
+										  	"id":2,
+										    "title": "Rates",
+										    "content": {
+											   
+												    	"img1": "../images/all_images/villas-piedra-blanca.png",
+												    	"season1":"Casa Roca y Casa Piedra Azul",
+												    	"price1":"$990 / Night\n\n6 Bedrooms.\n\n*Discounted price for one less bedroom.",
+												    	"img2": "../images/all_images/villas-piedra-blanca.png",
+												    	"season2":"Casa Tranquilo",
+												    	"price2":"$475 / Night\n\n3 Bedrooms.",
+											    		"img3": "../images/all_images/villas-piedra-blanca.png",
+												    	"season3":"Event Space",
+												    	"price3":"Ask for pricing. / Night"
+											    	
+										   			}
+										  },
+										  {
+										  	"id":3,
+										    "title": "Amenities",
+										    "content": {
+										    	"top":"Swim in the infinity pool overlooking the Pacific coastline, swing in your room’s hammock, take a refreshing shower on the deck amid treetops. Hang out at the beach bar or on a lounge chair while you sunbathe. After communing with the sea you can go back to the comfort of your canopy bed, and when you finish dinner take a walk along the beach under a million star canvas.",
+										    	"left":"\n\nKitchen\n\nDinning Room\n\nReading Area\n\nCable\n\nTV\n\nStereo / DVD Player\n\nWifi\n\nA/C\n\n",
+										    	"right":"\n\nPool\n\nBeachfront View\n\nJungle View\n\nOcean View\n\nGolf Cart\n\nFrige\n\nStove\n\n",
+										    }
+										  }
+								   ]
+  },
+  
+  "hotel_villas_valentin_full_resort":{
+  					  "hotelTitle":"Villas Valetin Full Resort",
+					  "hotelDesc":"Enjoy the privacy and tranquillity of the entire property by taking both Casitas and the Casa exclusively. Villa Valentin is the perfect tranquil, luxury, boho-tique destination for your family vacation or group retreat.Villa Valentin is the perfect tropical location for a family escape, destination wedding or group retreat.\n",
+					  "msgowner_email":"info@villavalentin.net",
+					  "high_season":"$2400 plus 16% tax",
+					  "low_season":"$1700 plus 16% tax",
+					  "holiday_price":"$3900 plus 16% tax",
+					  
+					  "hotel_images" : [
+									{
+										"id": 1,
+										
+										"imagePath": "../images/all_images/casa-valentine-slide-2.png"
+									},
+									{
+										"id": 2,
+										
+										"imagePath": "../images/all_images/casita-azul-slider1.jpg"
+									},
+									{
+										"id": 3,
+										
+										"imagePath": "../images/all_images/casita-azul-slider2.jpg"
+									},
+									{
+										"id": 4,
+										
+										"imagePath": "../images/all_images/casita-azul-slider3.jpg"
+									},
+									{
+										"id": 5,
+										
+										"imagePath": "../images/all_images/casita-azul-slider4.jpg"
+									},
+									{
+										"id": 6,
+										
+										"imagePath": "../images/all_images/casita-azul-slider5.jpg"
+									},
+									{
+										"id": 7,
+										
+										"imagePath": "../images/all_images/casita-azul-slider6.jpg"
+									},
+									{
+										"id": 8,
+										
+										"imagePath": "../images/all_images/casita-azul-slider7.jpg"
+									},
+									{
+										"id": 9,
+										
+										"imagePath": "../images/all_images/casita-rosa-slide-1.png"
+									},
+									{
+										"id": 10,
+										
+										"imagePath": "../images/all_images/casa-valentine-slide-2.png"
+									}
+									
+								],
+					  "hotel_map" : 
+									{
+										"latitude": 20.857508,
+										"longitude": -105.450113,
+										"latitudeDelta": 0.002963395744320252,
+										"longitudeDelta": 0.00369977205991745
+										
+									},
+					  "accordion_sec":[
+										  {
+										  	"id":1,
+										    "title": "Room Features",
+										    "content": "\n\n18 Sleeps\n\nPrivately positioned on over 2 acres of lush jungle with expansive views to the Pacific\n\n3 minutes drive from the colourful town of Sayulita\n\n45 minutes drive from Puerto Vallarta International Airport\n\nManaged by team of experienced professionals\n\nInternational design blended with local boho-chic organic decor\n\nActivities and adventures for all ages and interests\n\nOver 300 recorded days of sunshine a year\n\n",
+										  },
+										  {
+										  	"id":2,
+										    "title": "Rates",
+										    "content": {
+											   
+												    	"img1": "../images/all_images/villas-valentin-rate-1.png",
+												    	"season1":"Low Season",
+												    	"price1":"$1700 plus 16% tax",
+												    	"img2": "../images/all_images/villas-valentin-rate-1.png",
+												    	"season2":"High Season",
+												    	"price2":"$2400 plus 16% tax",
+											    		"img3": "../images/all_images/villas-valentin-rate-1.png",
+												    	"season3":"Holiday",
+												    	"price3":"$3900 plus 16% tax"
+											    	
+										   			}
+										  },
+										  {
+										  	"id":3,
+										    "title": "Amenities",
+										    "content": {
+										    	"top":"Swim in the infinity pool overlooking the Pacific coastline, swing in your room’s hammock, take a refreshing shower on the deck amid treetops. Hang out at the beach bar or on a lounge chair while you sunbathe. After communing with the sea you can go back to the comfort of your canopy bed, and when you finish dinner take a walk along the beach under a million star canvas.",
+										    	"left":"\n\nPool\n\nBeach View\n\nKichenettes\n\nFridge\n\nWifi\n\nFans\n\nNear town\n\nPrivate\n\n",
+										    	"right":"\n\nFan\n\nWedding/Event\n\nYoga/Massage\n\nLocal Beer & Cocktails\n\nEvery room has a fan and fully airconditioned\n\nWe also have 24 hour security.\n\nWe do not have a shuttle service into town as guests need to rent a golf cart.",
+										    }
+										  }
+								   ]
+  },
+  "hotel_bird_canyon":{
+  						"bannerImg":"../images/all_images/birdcanyon-photo-main.jpg",
+						 "topImg":"../images/all_images/playa-es-logo.png",
+						 "topTitle":"BIRD CANYON, THE BEST OF BOTH WORLDS",
+						 "topContent_1":"Combine the magic of a jungle outpost with the beauty of pristine tropical beaches for a one of a kind experience.",
+						 "topContent_2":" amid giant trees in your luxurious teak house just a quarter mile above our beach. Take your (included) golf cart from this great location to explore Sayulita as well as the beautiful jungle roads leading to nearby beaches.",
+						
+						 "midImg_1":"../images/all_images/birdcanyon-photo1.jpg",
+						 "midTitle_1":"EXPERIENCE NATURE",
+						 "midLink_1":"http://www.playa-escondida.com/concept_nature.html",
+						 "midContent_1":"Remember, the ultra -hot Catherine Zeta Jones in Blue juice ? The movie that makes you crazy about surfing. So, for those in search of a 'Perfect Wave' a lovely surfing spot is the destination to go for.",
+
+						 "midImg_2":"../images/all_images/birdcanyon-photo2.jpg",
+						 "midTitle_2":"ELEGANT TEAK AND BAMBOO",
+						 "midLink_2":"http://www.playa-escondida.com/price.html",
+						 "midContent_2":"Remember, the ultra -hot Catherine Zeta Jones in Blue juice ? The movie that makes you crazy about surfing. So, for those in search of a 'Perfect Wave' a lovely surfing spot is the destination to go for.",
+			
+  					  
+  },
+  "exotic_holiday_page":{
+  						"bannerImg":"../images/all_images/exotichideaways-banner.jpg",
+						 "topImg":"../images/all_images/playa-es-logo.png",
+						 "topTitle":"EXOTIC HIDEAWAYS",
+						 "topContent_1":"Kick off your shoes and feel the warm, sensual sand massage your feet...dance along water’s edge, bathe them in the soothing surf...breathe deeply the fresh scent of ocean spray…awaken your inner being ",
+						 "topContent_2":" Horseback riding, stand-up paddleboarding, snorkeling, swimming in the pool or the sea, hiking the jungle trails to Sayulita—these are but a few of the pleasures available on site. And if you seek something else, wave-riding, whalewatching, or perhaps a sunset sail on a luxurious catamaran, it can easily be arranged. People come to this lost beach, and find themselves. ",
+						
+						 "midImg_1":"../images/all_images/exotichideaways-1.jpg",
+						 "midTitle_1":"WHERE TO STAY",
+						 "midLink_1":"http://www.playa-escondida.com/price.html#rooms",
+						 "midContent_1":"Playa Escondida has accommodation choices available for everyone! Looking for a panoramic ocean view, jungle casita or a private villa? All of these  are located seaside or inland with spectacular views.",
+
+						 "midImg_2":"../images/all_images/exotichideaways-2.jpg",
+						 "midTitle_2":"WHAT TO DO",
+						 "midLink_2":"http://www.playa-escondida.com/experience.html",
+						 "midContent_2":"Visit whales, surf or paddle. Take a jungle-beach horseback ride or just feel the sand between your toes. Your first time in Playa Escondida is something to savor.",
+  }
+}
